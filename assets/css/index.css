@@ -1,13 +1,12 @@
 .img {
   display: inline-block;
   width: 50vw;
-   padding: 5px;
-   margin-top: 0;
+  padding: 5px;
+  margin-top: 0;
   vertical-align: top;
-
 }
 .img1 {
-width: 40vw;
+  width: 40vw;
 }
 .text {
   display: inline-block;
